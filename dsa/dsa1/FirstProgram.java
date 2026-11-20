@@ -1,7 +1,7 @@
 package dsa1;
 
 /**
- * FirstProgra
+ * FirstProgram
  */
 public class FirstProgram {
 
